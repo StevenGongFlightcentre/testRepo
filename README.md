@@ -1,3 +1,3 @@
 # testRepo
 
-This is to test my git process
+This is to test my git process.
